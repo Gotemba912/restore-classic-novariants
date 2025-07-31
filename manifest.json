@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "RestoreClassic: NoVariants v1.0.0",
+    "description": "Mobの亜種を無くしてデフォルトの見た目だけにします!\nby YuuhaLand",
+    "uuid": "b54d777c-5728-4dc6-b3cc-e9dbb6a6b749",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "acf944d2-4638-49f3-8d44-a5f40e452f87",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}
